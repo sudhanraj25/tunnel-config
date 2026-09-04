@@ -1,7 +1,7 @@
 {
-  "url": "https://chamber-not-thu-instrumentation.trycloudflare.com",
-  "tunnel_url": "https://chamber-not-thu-instrumentation.trycloudflare.com",
+  "url": "https://optics-relay-cnet-operations.trycloudflare.com",
+  "tunnel_url": "https://optics-relay-cnet-operations.trycloudflare.com",
   "lan_url": "http://192.168.20.95:5004",
-  "updated": "2026-09-04T07:17:21",
+  "updated": "2026-09-04T11:27:25",
   "service": "BRF Ops Live Dashboard"
 }
