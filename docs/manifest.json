@@ -1,0 +1,16 @@
+{
+  "name": "BRF Night Ops KPI",
+  "short_name": "Night Ops KPI",
+  "description": "Stamp the night's picking, tally and loading times — AL Madina Logistics, DC BRF OPS",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0D1B24",
+  "theme_color": "#0E7285",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
