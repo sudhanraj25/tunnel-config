@@ -1,7 +1,7 @@
 {
-  "url": "https://insights-lots-postal-loading.trycloudflare.com",
-  "tunnel_url": "https://insights-lots-postal-loading.trycloudflare.com",
+  "url": "https://holmes-pays-checkout-caps.trycloudflare.com",
+  "tunnel_url": "https://holmes-pays-checkout-caps.trycloudflare.com",
   "lan_url": "http://192.168.20.95:5005",
-  "updated": "2026-09-20T04:16:53",
+  "updated": "2026-09-21T01:52:07",
   "service": "BRF Night Ops KPI"
 }
