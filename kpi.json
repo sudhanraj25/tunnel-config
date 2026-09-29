@@ -1,7 +1,7 @@
 {
-  "url": "https://convert-brian-huntington-mai.trycloudflare.com",
-  "tunnel_url": "https://convert-brian-huntington-mai.trycloudflare.com",
-  "lan_url": "http://192.168.50.12:5005",
-  "updated": "2026-09-29T10:41:21",
+  "url": "https://mails-handle-findings-url.trycloudflare.com",
+  "tunnel_url": "https://mails-handle-findings-url.trycloudflare.com",
+  "lan_url": "http://192.168.20.95:5005",
+  "updated": "2026-09-29T22:18:11",
   "service": "BRF Night Ops KPI"
 }
