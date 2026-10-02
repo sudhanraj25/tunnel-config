@@ -1,7 +1,7 @@
 {
-  "url": "https://coleman-harvard-holding-onion.trycloudflare.com",
-  "tunnel_url": "https://coleman-harvard-holding-onion.trycloudflare.com",
+  "url": "https://aspect-clearing-tribunal-import.trycloudflare.com",
+  "tunnel_url": "https://aspect-clearing-tribunal-import.trycloudflare.com",
   "lan_url": "http://192.168.20.95:5005",
-  "updated": "2026-10-02T22:39:45",
+  "updated": "2026-10-02T23:19:54",
   "service": "BRF Night Ops KPI"
 }
