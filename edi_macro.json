@@ -1,7 +1,7 @@
 {
-  "url": "https://amsterdam-fact-isaac-dow.trycloudflare.com",
-  "tunnel_url": "https://amsterdam-fact-isaac-dow.trycloudflare.com",
+  "url": "https://morning-dts-dial-nathan.trycloudflare.com",
+  "tunnel_url": "https://morning-dts-dial-nathan.trycloudflare.com",
   "lan_url": "http://192.168.20.95:5006",
-  "updated": "2026-10-14T21:55:52",
+  "updated": "2026-10-16T20:05:29",
   "service": "EDI Macro App"
 }
